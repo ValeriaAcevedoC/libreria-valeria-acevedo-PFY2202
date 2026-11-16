@@ -1,0 +1,34 @@
+{
+  "categorias": [
+    {
+      "id": "1",
+      "nombre": "Ficción",
+      "descripcion": "Historias y personajes imaginarios para descubrir nuevos mundos."
+    },
+    {
+      "id": "2",
+      "nombre": "Ciencia ficción",
+      "descripcion": "Viajes espaciales, tecnología y aventuras en futuros posibles."
+    },
+    {
+      "id": "3",
+      "nombre": "Fantasía",
+      "descripcion": "Mundos mágicos, criaturas extraordinarias y grandes aventuras."
+    },
+    {
+      "id": "4",
+      "nombre": "Misterio",
+      "descripcion": "Enigmas, investigaciones y secretos por resolver."
+    },
+    {
+      "id": "5",
+      "nombre": "Historia",
+      "descripcion": "Libros para conocer acontecimientos y culturas del pasado."
+    },
+    {
+      "id": "6",
+      "nombre": "Infantil",
+      "descripcion": "Cuentos y aventuras para los lectores más pequeños."
+    }
+  ]
+}
